@@ -6,7 +6,7 @@
 需要使用捷徑 (自動化捷徑沒辦法分享:<)  
 URL換為部屬在雲上的server.py IP  
 <div style="display: flex;">
-    <img src="IMG_0320.jpg" alt="Verify-Courier" style="width: 33%;">
-    <img src="IMG_0319.jpg" alt="Verify-Courier" style="width: 33%;">
-    <img src="IMG_0318.jpg" alt="Verify-Courier" style="width: 33%;">
+    <img src="IMG_0320.jpg" alt="Verify-Courier" style="width: 32%;">
+    <img src="IMG_0319.jpg" alt="Verify-Courier" style="width: 32%;">
+    <img src="IMG_0318.jpg" alt="Verify-Courier" style="width: 32%;">
 </div>
